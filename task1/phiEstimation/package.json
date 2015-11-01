@@ -1,0 +1,10 @@
+{
+  "name": "phiEstimation",
+  "version": "0.0.0",
+  "description": "phiEstimation",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}
