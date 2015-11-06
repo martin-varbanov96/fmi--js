@@ -1,0 +1,10 @@
+{
+  "name": "setInteralTimeout",
+  "version": "0.0.0",
+  "description": "setInteralTimeout",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}

@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "fib", "task1\fib.njsproj", "{6E6EA7F6-0D55-4294-A0D8-37FC420F6AD3}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "1.fib", "task1\1.fib.njsproj", "{6E6EA7F6-0D55-4294-A0D8-37FC420F6AD3}"
 EndProject
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "phiEstimation", "phiEstimation\phiEstimation.njsproj", "{DEC1A932-739C-4920-9775-09C8C0EAA7E1}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "2.phiEstimation", "phiEstimation\2.phiEstimation.njsproj", "{DEC1A932-739C-4920-9775-09C8C0EAA7E1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "3.reverseString", "reverseWordsInString\3.reverseString.njsproj", "{F89C1807-3C30-49A1-AFE8-E2DD45A21EE1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "4.reverseWordsInStrings", "reverseWordsInStrings\4.reverseWordsInStrings.njsproj", "{510BD038-3935-48D3-9E3C-47B77200B42C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DEC1A932-739C-4920-9775-09C8C0EAA7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC1A932-739C-4920-9775-09C8C0EAA7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC1A932-739C-4920-9775-09C8C0EAA7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89C1807-3C30-49A1-AFE8-E2DD45A21EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89C1807-3C30-49A1-AFE8-E2DD45A21EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89C1807-3C30-49A1-AFE8-E2DD45A21EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89C1807-3C30-49A1-AFE8-E2DD45A21EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510BD038-3935-48D3-9E3C-47B77200B42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510BD038-3935-48D3-9E3C-47B77200B42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510BD038-3935-48D3-9E3C-47B77200B42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510BD038-3935-48D3-9E3C-47B77200B42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

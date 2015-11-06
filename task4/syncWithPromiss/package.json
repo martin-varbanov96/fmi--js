@@ -1,0 +1,10 @@
+{
+  "name": "syncWithPromiss",
+  "version": "0.0.0",
+  "description": "syncWithPromiss",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}

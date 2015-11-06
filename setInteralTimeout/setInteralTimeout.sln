@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "setTimeout", "setInteralTimeout\setTimeout.njsproj", "{1FE65722-F96B-486B-BF4D-89FDAB59F083}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "breakTimeout", "breakTimeout\breakTimeout.njsproj", "{D134D9DB-2207-43E5-8239-44FEDBFC37A1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "setIntervalExample", "setIntervalExample\setIntervalExample.njsproj", "{B739EA9D-37DF-4A81-9CC7-8F22C63C861A}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "makeTimer", "makeTimer\makeTimer.njsproj", "{FFDEB9B3-9E02-4049-9181-037FB044132C}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "breakInterval", "breakInterval\breakInterval.njsproj", "{D3546641-99D1-482B-824D-6AD459AA0FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE65722-F96B-486B-BF4D-89FDAB59F083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE65722-F96B-486B-BF4D-89FDAB59F083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE65722-F96B-486B-BF4D-89FDAB59F083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE65722-F96B-486B-BF4D-89FDAB59F083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D134D9DB-2207-43E5-8239-44FEDBFC37A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D134D9DB-2207-43E5-8239-44FEDBFC37A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D134D9DB-2207-43E5-8239-44FEDBFC37A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D134D9DB-2207-43E5-8239-44FEDBFC37A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B739EA9D-37DF-4A81-9CC7-8F22C63C861A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B739EA9D-37DF-4A81-9CC7-8F22C63C861A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B739EA9D-37DF-4A81-9CC7-8F22C63C861A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B739EA9D-37DF-4A81-9CC7-8F22C63C861A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDEB9B3-9E02-4049-9181-037FB044132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDEB9B3-9E02-4049-9181-037FB044132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDEB9B3-9E02-4049-9181-037FB044132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDEB9B3-9E02-4049-9181-037FB044132C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3546641-99D1-482B-824D-6AD459AA0FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3546641-99D1-482B-824D-6AD459AA0FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3546641-99D1-482B-824D-6AD459AA0FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3546641-99D1-482B-824D-6AD459AA0FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

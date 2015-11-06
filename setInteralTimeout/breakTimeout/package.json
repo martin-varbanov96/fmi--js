@@ -1,0 +1,10 @@
+{
+  "name": "breakTimeout",
+  "version": "0.0.0",
+  "description": "breakTimeout",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}

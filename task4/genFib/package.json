@@ -1,0 +1,10 @@
+{
+  "name": "genFib",
+  "version": "0.0.0",
+  "description": "genFib",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}

@@ -3,16 +3,15 @@
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
-    <Name>fib</Name>
-    <RootNamespace>task1</RootNamespace>
+    <Name>AsyncExecution</Name>
+    <RootNamespace>AsyncExecution</RootNamespace>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>6e6ea7f6-0d55-4294-a0d8-37fc420f6ad3</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
+    <ProjectGuid>09d0ddfd-e546-4e36-87e9-5b84fa99cfd1</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
     <StartupFile>app.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
