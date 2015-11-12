@@ -1,0 +1,10 @@
+{
+  "name": "helloGen",
+  "version": "0.0.0",
+  "description": "helloGen",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}

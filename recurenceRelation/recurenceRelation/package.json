@@ -1,0 +1,10 @@
+{
+  "name": "recurenceRelation",
+  "version": "0.0.0",
+  "description": "recurenceRelation",
+  "main": "app.js",
+  "author": {
+    "name": "hp",
+    "email": ""
+  }
+}
