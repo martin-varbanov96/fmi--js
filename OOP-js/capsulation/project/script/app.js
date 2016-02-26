@@ -29,10 +29,23 @@ $(document).ready(function(){
     }
     
     $("#input-button").click(function(){
-        var temp = $("#input-grade").val();
-        Pesho.push(temp);
-        display();
+            collectData();
     });
     
+    $("#input-grade").keypress(function(e){
+        var key = e.which;
+        if(key == 13){        
+            collectData();
+        }
+    });
+    
+    function collectData(){
+        var temp = $("#input-grade").val();
+        if(temp <= 6 && temp >1 ){
+            Pesho.push(temp);
+        }
+        display();    
+        
+    }
 
 });
